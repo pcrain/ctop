@@ -1,0 +1,22 @@
+Requirements:
+  - tcpdump + sudo access for network monitoring
+
+Controls:
+  'q': Quit the program
+  arrows: scroll
+  'a': Sort by age
+  'A': Sort by average CPU usage
+  'p': Sort by current CPU usage
+  'P': Sort by PID
+  't': Sort by cpu time usage
+  'c': Sort by command line
+  'U': Sort by user
+  'r': Sort by bytes read
+  'w': Sort by bytes written
+  'u': Sort by bytes uploaded
+  'd': Sort by bytes downloaded
+  'n': Sort by priority
+  's': Sort by status
+  'm': Sort by RAM usage
+  'y': Sort by TTY
+  'i': Toggle between average and current bytes / second for read, write, upload, and download

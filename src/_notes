@@ -1,0 +1,2 @@
+splitAndFind is slow because it keeps creating vectors / pushing to vectors
+  1 - store stuff in an array?
